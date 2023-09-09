@@ -12,4 +12,4 @@ for i in range(0,31):
         print(f'{i} es un primo')
         
 fin = time.time()
-print("tImepo = ", (fin - inicio)*1000)
+print("tiempo = ", (fin - inicio)*1000)
